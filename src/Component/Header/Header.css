@@ -1,0 +1,14 @@
+.h-search-container
+{
+    width:70rem;
+}
+
+.h-search
+{
+    width:45rem;
+    border-radius:12px;
+    background-color: var(--Primary-1);
+    padding:13px 0 13px 1rem;
+    border: none;
+    outline: none;
+}
